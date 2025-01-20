@@ -1,0 +1,4 @@
+"aggrgt_no","trx_no","amount","total","status","payment_method","paid_at"
+"AGVA1","TXVA1",100,200,1,1,"2024-01-01 00:00:00"
+"AGVA2","TXVA2",110,220,2,1,"2024-01-01 00:00:00"
+"AGVA4","TXVA4",130,230,1,1,"2024-01-01 00:00:00"
